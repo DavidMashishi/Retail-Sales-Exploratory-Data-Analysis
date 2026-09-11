@@ -75,6 +75,10 @@ The project uses a **Star Schema** consisting of:
 
 The database structure supports analysis across customers, products, sales transactions, geography, and product categories.
 
+![Database Schema](https://github.com/DavidMashishi/Retail-Sales-Exploratory-Data-Analysis/blob/b1f515af0303282f912d77218b308e2516a8a087/images/Database%20Schema.png)
+
+![ERD](https://github.com/DavidMashishi/Retail-Sales-Exploratory-Data-Analysis/blob/b1f515af0303282f912d77218b308e2516a8a087/images/ERD.png)
+
 ---
 
 # 🗃️ Database Tables
@@ -242,6 +246,10 @@ The analysis identified the strongest and weakest performers.
 - Top 10 customers
 - Lowest-ordering customers
 - Best-performing product categories
+
+  ![KPI Summary](https://github.com/DavidMashishi/Retail-Sales-Exploratory-Data-Analysis/blob/133d0e0268f61dfb9dbfc92c07cc0e1a3b85eb02/images/Top%20n%20Bottom%20KPI%20Summary.png)
+  
+  ![Top n Bottom KPI Summary](https://github.com/DavidMashishi/Retail-Sales-Exploratory-Data-Analysis/blob/133d0e0268f61dfb9dbfc92c07cc0e1a3b85eb02/images/Top%20n%20Bottom%20Summary.png)
 
 This allowed the business to identify high-value opportunities as well as areas requiring further investigation.
 
